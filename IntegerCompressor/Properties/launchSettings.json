@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntegerCompressor": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
